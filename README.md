@@ -1,2 +1,3 @@
 # git-start
-* git 시작합니다 
+* git add : working -> stage index
+* git commit : stage index -> repository
